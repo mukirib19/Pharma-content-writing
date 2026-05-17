@@ -1,4 +1,4 @@
-# pharma-content-writing
+# Pharma-content-writing
 
 A repository of writing samples and guides focused on pharmaceutical and healthcare content. The work here is informed by direct professional experience working as a front desk professional at a pharmaceutical company — managing visitor compliance, handling sensitive documentation, coordinating between departments, and communicating regulatory requirements to a wide range of people every day.
 
